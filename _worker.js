@@ -1,10 +1,3 @@
-/**
-*- Telegram交流群：https://t.me/AM_CLUBS
-*- YouTube频道：https://youtube.com/@AM_CLUB
-*- VLESS订阅地址：https://worker.amcloud.filegear-sg.me/866853eb-5293-4f09-bf00-e13eb237c655
-*- Github仓库地址：https://github.com/ansoncloud8
-**/
-
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
